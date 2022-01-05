@@ -19,15 +19,65 @@ body{
     /* margin-bottom: 20px; */
   }
 
-  #nav-link{
+#nav-link{
       margin-right: 50px;
   }
   .logo{
     margin-top: 10px;
     margin-left: 140px;
 }
+/* hover: reacts with the mouse pointer */
 .nav-link:hover {
     background-color:#045fa6;
     color: rgb(255, 255, 255);
-  }
+}
   
+h1{
+    font-size: 50px;
+    width: 90%;
+}
+
+.name-highlight{
+    color: #045fa6;
+}
+.landing{
+    width: 40%;
+    float: left;
+    margin-left: 6.5%;
+    padding-left: 2%;
+    /* margin: 5%; */
+    text-align: justify;
+  text-justify: inter-word;
+}
+/* Resizes the landing image */
+.landing img{
+    width: 85%;
+
+    float: right;
+    margin-bottom: -10px;
+    padding-right: 100px;
+    
+}
+.first-section{
+    display: flex;
+    justify-content: center;
+    /* justify-content: space-evenly; */
+     padding: 20px 0px 0px 0px; 
+    background-color:#e5e5e5;
+    align-items: flex-end;
+    /* margin-top: 40px; */
+}
+.hire-button{
+    background-color: #045fa6;
+    font-size: 20px;
+    border-radius: 30px;
+    padding: 10px 40px 10px 40px;
+    text-decoration: none;
+    color: #fff;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    cursor: pointer;
+    border: none;
+    justify-content: center;
+    /* align-items: center; */
+}
