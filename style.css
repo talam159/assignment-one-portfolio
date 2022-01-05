@@ -35,10 +35,23 @@ body{
 h1{
     font-size: 50px;
     width: 90%;
+    border-left: 4px solid #F16142;
+    height:135px;
+    padding-left: 20px;
+    color: #045fa6;
+}
+h2{
+    font-family: 'Yeseva One', cursive;
+    font-size: 40px;
+    color: #045fa6;
+    text-align: center;
+}
+.headline{
+    
 }
 
-.name-highlight{
-    color: #045fa6;
+.text-highlight{
+    color: #F16142;
 }
 .landing{
     width: 40%;
@@ -67,7 +80,7 @@ h1{
     align-items: flex-end;
     /* margin-top: 40px; */
 }
-.hire-button{
+.button{
     background-color: #045fa6;
     font-size: 20px;
     border-radius: 30px;
