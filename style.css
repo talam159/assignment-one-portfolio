@@ -177,6 +177,27 @@ h2{
     /* margin-top: -50px; */
     /* padding-bottom: 30px; */
     float: right;
-    
     margin-left: -70px;
+}
+/* coding the 4th section */
+.fourth-section{
+    margin-top: 20px;
+    padding-top: 20px;
+}
+.fourth-image{
+    width: 35%;
+    float: right;
+}
+.fourth-image img{
+    width: 85%;
+    border-radius: 10px;
+}
+.fourth-texts{
+    width: 50%;
+    margin-left: 150px;
+    padding-right: 20px;
+}
+.fourth-texts h2{
+    font-size: 30px;
+
 }
