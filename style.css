@@ -62,14 +62,13 @@ h2{
     margin-left: 6.5%;
     padding-left: 2%;
     /* margin: 5%; */
-    text-align: justify;
-  text-justify: inter-word;
+    /* text-align: justify;
+  text-justify: inter-word; */
 }
 
 /* Resizes the landing image */
 .landing img{
-    width: 85%;
-
+    width: 80%;
     float: right;
     margin-bottom: -10px;
     padding-right: 100px;
@@ -123,7 +122,7 @@ h2{
     background-color: #fce0fc
 }
 .boxes{
-    width: 350px;
+    width: 360px;
     display: flex;
     flex-direction: column;
     justify-content: center;
