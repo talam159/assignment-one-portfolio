@@ -70,7 +70,7 @@ h2{
 .landing img{
     width: 80%;
     float: right;
-    margin-bottom: -10px;
+    margin-bottom: 10px;
     padding-right: 100px;
     
 }
@@ -145,4 +145,34 @@ h2{
     width: 85%;
     justify-content: space-around;
     align-items: center;
+}
+/* designing third section */
+.third-image img{
+    width: 75%;
+    border-radius: 5%;
+    margin: -25px;
+    float:left;
+}
+.third-image{
+    width: 40%;
+    align-items: center;
+}
+.third-section{
+    display: flex;
+    margin-top: 20px;
+    justify-content: center;
+    align-items: center;
+}
+.third-texts h2{
+    font-size: 30px;
+    /* margin-top: 100px; */
+
+}
+.third-texts{
+    width: 40%;
+    /* margin-top: -50px; */
+    /* padding-bottom: 30px; */
+    float: right;
+    
+    margin-left: -70px;
 }
