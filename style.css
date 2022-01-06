@@ -38,6 +38,7 @@ h1{
     font-size: 50px;
     width: 90%;
     border-left: 4px solid #2ed6f3;
+    border-radius: 2px;
     height:110px;
     padding-left: 20px;
     color: #045fa6;
